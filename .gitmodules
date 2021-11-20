@@ -1,0 +1,3 @@
+[submodule "suvideo"]
+	path = suvideo
+	url = https://github.com/Dolecor/suvideo
